@@ -7,7 +7,7 @@
 ### App Description
 Flashcard app that shows the answer when you tap on the screen
 
-
+https://i.imgur.com/gTjUZ3q.gif
 
 
 
